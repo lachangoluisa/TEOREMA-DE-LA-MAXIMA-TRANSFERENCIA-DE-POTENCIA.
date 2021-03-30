@@ -28,13 +28,7 @@ El teorema de maxima transferencia de potencia  establece que la potencia maxima
 
 
 DIAGRAMAS
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
 
-Diagramas de bloques.
-Diagramas UML. (casos de uso-clase)
-Diagramas eléctricos.
-Diagramas esquemáticos.
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circui
 
 ![WhatsApp Image 2021-03-29 at 8 01 16 PM (1)](https://user-images.githubusercontent.com/76057459/112998798-013c7b80-9134-11eb-8bfe-dba3967e9857.jpeg)
 
@@ -45,8 +39,6 @@ En este punto se indicará en una tabla todos los recursos que se han empleado p
 ![WhatsApp Image 2021-03-29 at 8 01 15 PM](https://user-images.githubusercontent.com/76057459/112918111-bb4acd80-90c9-11eb-8165-ca2968878bd4.jpeg)
 
 
-EXPLICACIÓN
-En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
 
 PROCEDIMIENTO 
 *Arme el circuito que se muestra en la figura 
@@ -92,21 +84,47 @@ PARA RL 4700(Ω)
 
 Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla
+
 TABLAS Y CALCULOS
+
 ![WhatsApp Image 2021-03-30 at 11 58 52 AM](https://user-images.githubusercontent.com/76057459/113027184-6b164e80-914f-11eb-828f-3d85d120ec09.jpeg)
 
+ERROR PORCENTUAL 
+![formula_error](https://user-images.githubusercontent.com/76057459/113041732-e8e25600-915f-11eb-8ee5-e57f8437d38e.png)
 
-7.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
+![ERROR LAB8](https://user-images.githubusercontent.com/76057459/113041686-da943a00-915f-11eb-9773-34b5df1795b6.jpeg)
 
-APORTACIONES
-En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
+
+ANALISIS DE RESULTADOS
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuestaonMediante la practica  se obtuvo valores  mediante los cuales se pudo notar la transferencia de maxima potencia  sin embargo era necesario realizar la medicion con una resistencia de 1200 ohms para  obtener la maxima potencia 
+6.5.5. ¿Cuál fue la potencia máxima en RL? 0,04685 W
+6.5.6. ¿Para qué valor de RL se obtiene la MTP?  1500 Ohm
+
+analisis de resultados 
+
+De acuerdo a lsa guia se realizo la practica con los valores de la resistencia RL dados previamente con los cuales no se pudo obtener la maxima potencia  pues era necesario  realizar la prueba con un resistor de 1200 ohms , Analizando los resultados  se observa que el valor de la potencia aumenta proporcioalmemte  respecto a  la carga que3 se acerca  al valor de la resistencia de thevenin 
 
 CONCLUSIONES
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+el valor de la potencia aumenta cuando la resistencia de carga esta cerca de l valor de la resitencia de thevenin  y  menora si se aleja de la resistencia de thevenin
+
+En la practica se obtuvo diferentes valores de  voltaje y corriente mediante los cuales pudimos calcular la potencia  en la resistencia RL  
+
+algunos de los valores al hacer el calculo del error  son negativos por el valor exacto es mayor al valor experimental  , podemos notar que el error entre los valores medidos y los valores calculados no son tan diferentes 
 
 BIBLIOGRAFÍA
-Emplear normas APA para el informe e IEEE para el artículo
+https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
+https://unicrom.com/teorema-de-maxima-transferencia-de-potencia/
 
 ANEXOS
+
+![WhatsApp Image 2021-03-30 at 12 23 59 PM](https://user-images.githubusercontent.com/76057459/113043740-8179d580-9162-11eb-9034-98dbd4dcf138.jpeg)
+
+![WhatsApp Image 2021-03-30 at 12 04 34 PM](https://user-images.githubusercontent.com/76057459/113043751-83dc2f80-9162-11eb-8187-c2b8c760ce5a.jpeg)
+
+![WhatsApp Image 2021-03-30 at 8 40 32 AM](https://user-images.githubusercontent.com/76057459/113043762-876fb680-9162-11eb-88bc-692cb4e14d9d.jpeg)
+
+![WhatsApp Image 2021-03-30 at 8 18 32 AM](https://user-images.githubusercontent.com/76057459/113043772-8b9bd400-9162-11eb-864d-f24774836a70.jpeg)
+
