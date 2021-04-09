@@ -98,8 +98,8 @@ ERROR PORCENTUAL
 
 ANALISIS DE RESULTADOS
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuestaonMediante la practica  se obtuvo valores  mediante los cuales se pudo notar la transferencia de maxima potencia  sin embargo era necesario realizar la medicion con una resistencia de 1200 ohms para  obtener la maxima potencia 
-6.5.5. ¿Cuál fue la potencia máxima en RL? 0,04685 W
+respuestaonMediante la practica  se obtuvo valores  mediante los cuales se pudo notar la transferencia de maxima potencia  sin embargo era necesario realizar la medicion con una resistencia de 1200 ohms para  obtener la maxima potencia ya que para que se de la maxima transferencia de potencia la reisistencia de carga debe ser iguala a la resistencia de thevenin
+6.5.5. ¿Cuál fue la potencia máxima en RL? 0,04685 W  aplicando el teorema de maxima transferencia de potencia es necesario una resistencia rl = 1200 ohms ya que para obtener la ,axima transferencia de pontencia debe ser igual a la resistencia de thevenin del circuito qeuivalente 
 6.5.6. ¿Para qué valor de RL se obtiene la MTP?  1500 Ohm
 
 analisis de resultados 
@@ -107,6 +107,9 @@ analisis de resultados
 De acuerdo a lsa guia se realizo la practica con los valores de la resistencia RL dados previamente con los cuales no se pudo obtener la maxima potencia  pues era necesario  realizar la prueba con un resistor de 1200 ohms , Analizando los resultados  se observa que el valor de la potencia aumenta proporcioalmemte  respecto a  la carga que3 se acerca  al valor de la resistencia de thevenin 
 
 CONCLUSIONES
+
+la maxima transferencia de potencia  sera cuando la rtesistencia de carga  sea igual a la resistencia de thevenin del circuito 
+
 el valor de la potencia aumenta cuando la resistencia de carga esta cerca de l valor de la resitencia de thevenin  y  menora si se aleja de la resistencia de thevenin
 
 En la practica se obtuvo diferentes valores de  voltaje y corriente mediante los cuales pudimos calcular la potencia  en la resistencia RL  
